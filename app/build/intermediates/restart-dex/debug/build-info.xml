@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="1"
+    format="7"
+    timestamp="1702652213624515"
+    token="6031713786729242761" >
+
+    <task
+        name="javac"
+        duration="2849" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="799" />
+    <task
+        name="verifier"
+        duration="67" />
+
+    <artifact
+        location="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1702652213624515" >
+        <artifact
+            location="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

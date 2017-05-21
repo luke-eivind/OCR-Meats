@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/13b813099bcacf2ba0de0587e55e76eb362ff98b/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_1bb0ab0108d886217cec0a0cebe3d25c5bb2e034.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/636fa0d7f1181057d676dd155b9c49ffdcd19b87/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_c0b8714fcd9be267c81d480a6608a0fd0485c2ff.jar" />
+    </item>
+    <item
+        jar="/Users/lukefreeman/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_0399828136e1528184c66005a201390181c565a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/e3d4a431ec74d2da2b0bbb40c2ea554e5cb33b17/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_a214cae439da8ef9a94c451c0d693860db8e1ac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/c57af4d37db2ff8b427185b835e28a686565eb69/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_a1a38c35a97992dbc0d98cfaaab422b17a257bab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/204382faa919a56c50097fec5eccf99ff5c6c27d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_9e532b6ebb2fbe9b9fcfd086eb8f0bd5fc0a8a1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/636fa0d7f1181057d676dd155b9c49ffdcd19b87/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_d95448967d0cd40e533e8b47f0f8ef16b1eb914b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/149b0473762f735f70c0a98541f2c69d4af354a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_c8366b6af5491f2afbdf89bef81f096889c3a5b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/564c8e740d918f4fd7c6cdf0cfcef8e795a77311/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_952f38393c9ad843bdd06c8bf93090ab55986d52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/13b813099bcacf2ba0de0587e55e76eb362ff98b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_6adabb27b8673720485d74c74d04a88e7caa6a8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/204382faa919a56c50097fec5eccf99ff5c6c27d/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_180190471b120578fb898ae56cc6f4066b8fa46b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/61b86090d023214f0d334199970f2cf5875f3728/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_76055296c1d1e7df27b917dbb0c337fcc0274c23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/0dedf1a68653177cf5c6bcba04fe1d4589f0120e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_c3ef4d43cf7024c96eb1b5767b68c4147d2ea9a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/043dc30938bc43c2acc768ca7854541c43691288/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_41ff328c88ba5275618b9fbc25d4f803bc710a7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/545a97c59a9a7eff06a8ea12172bf35c46e2030e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_96630a7f5a089eaae4c6a759e3a216e2d51bc633.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/b2452af8e7dafb8110bb9c4af907f4937ab36459/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_d3e2f3e5a0f47f427b3378c4474484586df6dffb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_0399828136e1528184c66005a201390181c565a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/d8d04d6a9fb6faa844b4533fb2662809d78e95e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_573831170abb702e807559e8d608db8aaff1c42b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/9b0832e47a6d4def95fe0ad584ec417212345a7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_a6e4489849e46b090b180fb59f740e6bb97c4e9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/043dc30938bc43c2acc768ca7854541c43691288/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_4b14af27bd9a0ea50ca8f6c97c2541b1176ea346.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/564c8e740d918f4fd7c6cdf0cfcef8e795a77311/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_6325cbd606b54173c472c4a105488c72b19c15fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/e9414bfaea2ee0a022377ea2d227f41c3d20ee2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_c3f1afe9955540d50a941299fc01e0478050cf37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukefreeman/.android/build-cache/ae128593543ba782f2dace01abfab12b6127f99f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/lukefreeman/Google Drive/_CODE/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_888e85f87438f2a31bec447bdde6ecd80416b19e.jar" />
+    </item>
+
+</items>
